@@ -2,7 +2,7 @@
     "name": "HLTV Sports mode",
     "version": "1.0.0",
     "manifest_version": 3,
-    "description": "Acivating Hltv sports mode when entering the site. This hides all comments and the forum",
+    "description": "Activating Hltv sports mode when entering the site. This hides all comments and the forum",
     "browser_action": {
         "default_title": "HLTV Sports mode"
     },
